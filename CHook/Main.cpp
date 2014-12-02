@@ -4,5 +4,6 @@
 int main()
 {
 	CHook ch;
+
 	return 0;
 }
